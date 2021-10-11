@@ -1,0 +1,9 @@
+github.com/Danile71/go-face v0.1.1 h1:lNaSNTOIJQ7YoGxD/d2nkiBChvSaE0gvrxJC/DTXHt8=
+github.com/Danile71/go-face v0.1.1/go.mod h1:C83Krj1aVVsvlaIcyjn5hUZYYBIgX0BYvW6PMqzh1/Q=
+github.com/Danile71/go-logger v0.1.2 h1:7RdHu2QntvvGJvdVaekiVGDL3FhkeUFiG90OTtY8wQU=
+github.com/Danile71/go-logger v0.1.2/go.mod h1:saFCu/TU1L2Ypl48em66PQcFGy9lHz8lzn42bulF7W4=
+github.com/Kagami/go-face v0.0.0-20200825065730-3dd2d74dccfb/go.mod h1:9wdDJkRgo3SGTcFwbQ7elVIQhIr2bbBjecuY7VoqmPU=
+github.com/hybridgroup/mjpeg v0.0.0-20140228234708-4680f319790e/go.mod h1:eagM805MRKrioHYuU7iKLUyFPVKqVV6um5DAvCkUtXs=
+github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
+gocv.io/x/gocv v0.28.0 h1:hweRS9Js60YEZPZzjhU5I+0E2ngazquLlO78zwnrFvY=
+gocv.io/x/gocv v0.28.0/go.mod h1:oc6FvfYqfBp99p+yOEzs9tbYF9gOrAQSeL/dyIPefJU=
